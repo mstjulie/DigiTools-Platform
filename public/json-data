@@ -1,98 +1,122 @@
 [
   {
     "id": 1,
-    "title": "Design Templates Pack",
-    "badge": "Popular",
-    "description": "2000+ premium templates for social media, presentations, and marketing materials.",
-    "price": 49,
-    "pricingType": "one-time",
-    "currency": "USD",
+    "name": "Starter Plan",
+    "description": "Perfect for beginners to create simple resumes.",
+    "price": 0,
+    "period": "one-time",
+    "tag": "new",
+    "tagType": "new",
     "features": [
-      "2000+ templates",
-      "Monthly updates",
-      "Commercial license"
+      "10+ templates",
+      "Basic customization",
+      "Download as PDF"
     ],
-    "buttonText": "Buy Now",
-    "icon": "design-icon.png"
+    "icon": "FaRocket"
   },
   {
     "id": 2,
-    "title": "UI Kit Bundle",
-    "badge": "Best Value",
-    "description": "Complete UI kits for web and mobile apps with modern components.",
-    "price": 59,
-    "pricingType": "one-time",
-    "currency": "USD",
+    "name": "Basic Plan",
+    "description": "Great for students and freshers.",
+    "price": 5,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
     "features": [
-      "500+ UI components",
-      "Figma & Adobe XD",
-      "Lifetime access"
+      "30+ templates",
+      "ATS optimization",
+      "Cover letter builder"
     ],
-    "buttonText": "Buy Now",
-    "icon": "ui-kit.png"
+    "icon": "FaUser"
   },
   {
     "id": 3,
-    "title": "Social Media Pack",
-    "badge": "Trending",
-    "description": "Ready-made templates for Instagram, Facebook, and other platforms.",
-    "price": 29,
-    "pricingType": "one-time",
-    "currency": "USD",
+    "name": "Pro Plan",
+    "description": "Best for professionals and job seekers.",
+    "price": 12,
+    "period": "monthly",
+    "tag": "best seller",
+    "tagType": "best",
     "features": [
-      "1000+ posts",
-      "Editable files",
-      "Free fonts included"
+      "100+ templates",
+      "Advanced customization",
+      "Export to PDF & DOCX"
     ],
-    "buttonText": "Buy Now",
-    "icon": "social-pack.png"
+    "icon": "FaStar"
   },
   {
     "id": 4,
-    "title": "Presentation Kit",
-    "badge": "New",
-    "description": "Professional presentation slides for business and education.",
-    "price": 39,
-    "pricingType": "one-time",
-    "currency": "USD",
+    "name": "Premium Plan",
+    "description": "Advanced tools for career growth.",
+    "price": 99,
+    "period": "yearly",
+    "tag": "popular",
+    "tagType": "popular",
     "features": [
-      "300+ slides",
-      "PowerPoint & Google Slides",
-      "Easy customization"
+      "Unlimited templates",
+      "AI resume suggestions",
+      "Priority support"
     ],
-    "buttonText": "Buy Now",
-    "icon": "presentation.png"
+    "icon": "FaCrown"
   },
   {
     "id": 5,
-    "title": "Marketing Assets Bundle",
-    "badge": "Hot",
-    "description": "All-in-one marketing assets including banners, ads, and email templates.",
-    "price": 69,
-    "pricingType": "one-time",
-    "currency": "USD",
+    "name": "Enterprise Plan",
+    "description": "Best for teams and organizations.",
+    "price": 199,
+    "period": "yearly",
+    "tag": "best seller",
+    "tagType": "best",
     "features": [
-      "Ad templates",
-      "Email designs",
-      "High resolution files"
+      "Team collaboration",
+      "Custom branding",
+      "Dedicated support"
     ],
-    "buttonText": "Buy Now",
-    "icon": "marketing.png"
+    "icon": "FaBuilding"
   },
   {
     "id": 6,
-    "title": "Logo Design Pack",
-    "badge": "Recommended",
-    "description": "Creative and modern logo templates for branding projects.",
+    "name": "Freelancer Pack",
+    "description": "Designed for freelancers and creatives.",
     "price": 25,
-    "pricingType": "one-time",
-    "currency": "USD",
+    "period": "one-time",
+    "tag": "new",
+    "tagType": "new",
     "features": [
-      "200+ logos",
-      "Vector files",
-      "Fully editable"
+      "Portfolio templates",
+      "Client proposal builder",
+      "Export to PDF"
     ],
-    "buttonText": "Buy Now",
-    "icon": "logo-pack.png"
+    "icon": "FaBriefcase"
+  },
+  {
+    "id": 7,
+    "name": "Student Pack",
+    "description": "Affordable plan for students.",
+    "price": 3,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": [
+      "20+ templates",
+      "Simple UI",
+      "Quick download"
+    ],
+    "icon": "FaGraduationCap"
+  },
+  {
+    "id": 8,
+    "name": "Lifetime Access",
+    "description": "Pay once and enjoy forever.",
+    "price": 149,
+    "period": "one-time",
+    "tag": "best seller",
+    "tagType": "best",
+    "features": [
+      "All templates access",
+      "Lifetime updates",
+      "Unlimited downloads"
+    ],
+    "icon": "FaInfinity"
   }
 ]
