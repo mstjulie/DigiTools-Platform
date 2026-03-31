@@ -1,9 +1,8 @@
 import React from 'react';
 
-const Cards = () => {
+const Main = () => {
     return (
-        
-    <div className="hero bg-[#ffffffFF] py-18">
+        <div className="hero bg-[#ffffffFF] py-18">
                 <div className="hero-content text-center">
                     <div className="max-w-md">
                     <h1 style={{ whiteSpace: "nowrap" }} className="text-5xl font-bold single-line">Premium Digital Tools</h1>
@@ -17,13 +16,9 @@ const Cards = () => {
                     </div>
 
                </div>
+        </div>
              
-
-    </div>
-
-            
-        
     );
 };
 
-export default Cards;
+export default Main;

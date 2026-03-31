@@ -12,7 +12,7 @@
       "Basic customization",
       "Download as PDF"
     ],
-    "icon": "FaRocket"
+    "img": "FaRocket"
   },
   {
     "id": 2,
@@ -27,7 +27,7 @@
       "ATS optimization",
       "Cover letter builder"
     ],
-    "icon": "FaUser"
+    "img": "FaUser"
   },
   {
     "id": 3,
@@ -42,7 +42,7 @@
       "Advanced customization",
       "Export to PDF & DOCX"
     ],
-    "icon": "FaStar"
+    "img": "FaStar"
   },
   {
     "id": 4,
@@ -57,7 +57,7 @@
       "AI resume suggestions",
       "Priority support"
     ],
-    "icon": "FaCrown"
+    "img": "FaCrown"
   },
   {
     "id": 5,
@@ -72,7 +72,7 @@
       "Custom branding",
       "Dedicated support"
     ],
-    "icon": "FaBuilding"
+    "img": "FaBuilding"
   },
   {
     "id": 6,
@@ -87,36 +87,6 @@
       "Client proposal builder",
       "Export to PDF"
     ],
-    "icon": "FaBriefcase"
-  },
-  {
-    "id": 7,
-    "name": "Student Pack",
-    "description": "Affordable plan for students.",
-    "price": 3,
-    "period": "monthly",
-    "tag": "popular",
-    "tagType": "popular",
-    "features": [
-      "20+ templates",
-      "Simple UI",
-      "Quick download"
-    ],
-    "icon": "FaGraduationCap"
-  },
-  {
-    "id": 8,
-    "name": "Lifetime Access",
-    "description": "Pay once and enjoy forever.",
-    "price": 149,
-    "period": "one-time",
-    "tag": "best seller",
-    "tagType": "best",
-    "features": [
-      "All templates access",
-      "Lifetime updates",
-      "Unlimited downloads"
-    ],
-    "icon": "FaInfinity"
+    "img": "FaBriefcase"
   }
 ]
