@@ -1,92 +1,98 @@
 [
   {
     "id": 1,
-    "name": "Starter Plan",
-    "description": "Perfect for beginners to create simple resumes.",
-    "price": 0,
-    "period": "one-time",
-    "tag": "new",
-    "tagType": "new",
+    "title": "Design Templates Pack",
+    "badge": "Popular",
+    "description": "2000+ premium templates for social media, presentations, and marketing materials.",
+    "price": 49,
+    "pricingType": "one-time",
+    "currency": "USD",
     "features": [
-      "10+ templates",
-      "Basic customization",
-      "Download as PDF"
+      "2000+ templates",
+      "Monthly updates",
+      "Commercial license"
     ],
-    "img": "FaRocket"
+    "buttonText": "Buy Now",
+    "icon": "https://i.ibb.co.com/27VzbyF3/writing-2327400-1.png"
   },
   {
     "id": 2,
-    "name": "Basic Plan",
-    "description": "Great for students and freshers.",
-    "price": 5,
-    "period": "monthly",
-    "tag": "popular",
-    "tagType": "popular",
+    "title": "UI Kit Bundle",
+    "badge": "Best Value",
+    "description": "Complete UI kits for web and mobile apps with modern components.",
+    "price": 59,
+    "pricingType": "one-time",
+    "currency": "USD",
     "features": [
-      "30+ templates",
-      "ATS optimization",
-      "Cover letter builder"
+      "500+ UI components",
+      "Figma & Adobe XD",
+      "Lifetime access"
     ],
-    "img": "FaUser"
+    "buttonText": "Buy Now",
+    "icon": "https://i.ibb.co.com/2HVhqzK/design-tool.png"
   },
   {
     "id": 3,
-    "name": "Pro Plan",
-    "description": "Best for professionals and job seekers.",
-    "price": 12,
-    "period": "monthly",
-    "tag": "best seller",
-    "tagType": "best",
+    "title": "Social Media Pack",
+    "badge": "Trending",
+    "description": "Ready-made templates for Instagram, Facebook, and other platforms.",
+    "price": 29,
+    "pricingType": "one-time",
+    "currency": "USD",
     "features": [
-      "100+ templates",
-      "Advanced customization",
-      "Export to PDF & DOCX"
+      "1000+ posts",
+      "Editable files",
+      "Free fonts included"
     ],
-    "img": "FaStar"
+    "buttonText": "Buy Now",
+    "icon": "social-pack.png"
   },
   {
     "id": 4,
-    "name": "Premium Plan",
-    "description": "Advanced tools for career growth.",
-    "price": 99,
-    "period": "yearly",
-    "tag": "popular",
-    "tagType": "popular",
+    "title": "Presentation Kit",
+    "badge": "New",
+    "description": "Professional presentation slides for business and education.",
+    "price": 39,
+    "pricingType": "one-time",
+    "currency": "USD",
     "features": [
-      "Unlimited templates",
-      "AI resume suggestions",
-      "Priority support"
+      "300+ slides",
+      "PowerPoint & Google Slides",
+      "Easy customization"
     ],
-    "img": "FaCrown"
+    "buttonText": "Buy Now",
+    "icon": "presentation.png"
   },
   {
     "id": 5,
-    "name": "Enterprise Plan",
-    "description": "Best for teams and organizations.",
-    "price": 199,
-    "period": "yearly",
-    "tag": "best seller",
-    "tagType": "best",
+    "title": "Marketing Assets Bundle",
+    "badge": "Hot",
+    "description": "All-in-one marketing assets including banners, ads, and email templates.",
+    "price": 69,
+    "pricingType": "one-time",
+    "currency": "USD",
     "features": [
-      "Team collaboration",
-      "Custom branding",
-      "Dedicated support"
+      "Ad templates",
+      "Email designs",
+      "High resolution files"
     ],
-    "img": "FaBuilding"
+    "buttonText": "Buy Now",
+    "icon": "marketing.png"
   },
   {
     "id": 6,
-    "name": "Freelancer Pack",
-    "description": "Designed for freelancers and creatives.",
+    "title": "Logo Design Pack",
+    "badge": "Recommended",
+    "description": "Creative and modern logo templates for branding projects.",
     "price": 25,
-    "period": "one-time",
-    "tag": "new",
-    "tagType": "new",
+    "pricingType": "one-time",
+    "currency": "USD",
     "features": [
-      "Portfolio templates",
-      "Client proposal builder",
-      "Export to PDF"
+      "200+ logos",
+      "Vector files",
+      "Fully editable"
     ],
-    "img": "FaBriefcase"
+    "buttonText": "Buy Now",
+    "icon": "logo-pack.png"
   }
 ]

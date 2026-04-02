@@ -1,12 +1,13 @@
 import React, { use } from 'react';
+import AvailableProduct from '../AvailableProduct/AvailableProduct'
 
 const Product = ({ProductPromise}) => {
     console.log(ProductPromise);
-    const data = use(ProductPromise);
-    console.log(data);
+    const Products = use(ProductPromise);
+    console.log(Products);
     return (
         <div>
-            hello
+            <AvailableProduct Products={Products}></AvailableProduct>
         </div>
     );
 };
