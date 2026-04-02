@@ -3,23 +3,36 @@ import React from 'react';
 const Footer = () => {
     return (
         <div>
-            <footer className="footer sm:footer-horizontal bg-base-300 text-base-content p-10">
+            <footer className="footer sm:footer-horizontal bg-[#101727] text-base-content text-white p-10">
+              <nav>
+                <h1 className='text-4xl font-bold'>DigiTools</h1>
+                <p>Premium digital tools for creators,<br /> professionals, and businesses. Work smarter <br /> with our suite of powerful tools.</p>
+              </nav>
+
+              
   <nav>
-    <h6 className="footer-title">Services</h6>
-    <a className="link link-hover">Branding</a>
-    <a className="link link-hover">Design</a>
-    <a className="link link-hover">Marketing</a>
-    <a className="link link-hover">Advertisement</a>
+    <h6 className="footer-title">Product</h6>
+    <a className="link link-hover">Features</a>
+    <a className="link link-hover">Pricing</a>
+    <a className="link link-hover">Templates</a>
+    <a className="link link-hover">Integrations</a>
   </nav>
   <nav>
     <h6 className="footer-title">Company</h6>
-    <a className="link link-hover">About us</a>
-    <a className="link link-hover">Contact</a>
-    <a className="link link-hover">Jobs</a>
-    <a className="link link-hover">Press kit</a>
+    <a className="link link-hover">About</a>
+    <a className="link link-hover">Blog</a>
+    <a className="link link-hover">Careers</a>
+    <a className="link link-hover">Press</a>
   </nav>
   <nav>
-    <h6 className="footer-title">Social</h6>
+    <h6 className="footer-title">Resources</h6>
+    <a className="link link-hover">Documentation</a>
+    <a className="link link-hover">Help Center</a>
+    <a className="link link-hover">Community</a>
+    <a className="link link-hover">Contact</a>
+  </nav>
+  <nav>
+    <h6 className="footer-title">Social Links</h6>
     <div className="grid grid-flow-col gap-4">
       <a>
         <svg
