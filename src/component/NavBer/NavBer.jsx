@@ -4,7 +4,7 @@ import img from '../../assets/products/shopping-cart.png';
 
 const NavBer = () => {
     return (
-        <div className="navbar bg-[#FFFFFF] shadow-xl px-6 lg:px-12 container mx-auto">
+        <div className="navbar bg-[#FFFFFF] shadow-xl px-6 lg:px-12">
           <div className="navbar-start">
             <div className="dropdown">
               <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
